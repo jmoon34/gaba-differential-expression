@@ -1,4 +1,4 @@
-*Refer to Moon_Final_Project.docx for more information*
+*Refer to /Reports/Moon_Final_Project.docx for more information*
 
 # Differential Expression of the SLC12A Family in ES and NPC Cells
 
@@ -18,9 +18,9 @@ After transformation of data, p-values were obtained using Welch’s t-test, Fis
 
 ![Volcano plot (K-S test)](/Diagrams/volcano_KS.png?raw=true "Volcano plot (K-S test)")
 
-![Volcano plot (Fisher's Exact Test)](/Diagrams/Fisher.png?raw=true "Volcano plot (Fisher's Exact Test)")
+![Volcano plot (Fisher's Exact Test)](/Diagrams/volcano_Fisher.png?raw=true "Volcano plot (Fisher's Exact Test)")
 
-![Volcano plot (LRT)](/Diagrams/LRT.png?raw=true "Volcano plot (Poisson Log-Likelihood Ratio Test)")
+![Volcano plot (LRT)](/Diagrams/volcano_LRT.png?raw=true "Volcano plot (Poisson Log-Likelihood Ratio Test)")
 
 ## Conclusion
 Regardless of the specific direction of regulation from ES cells to NPCs, both Fisher’s exact test and LRT show statistically significant changes in counts in a given portion of the genes that code for the SLC12A family.  Specifically, genes that code for NKCC1 and KCC2 both show significant changes, which supports the claim that there is a difference in intracellular chloride concentration, which in turn illustrates the different role that GABA plays as a neurotransmitter in ES cells and in adult brain cells.   
